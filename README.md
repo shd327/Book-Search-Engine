@@ -95,7 +95,7 @@ Want to learn more please contact me at shdesai327@gmail.com
 ## Screenshots
 ![](/Assets/21-mern-homework-demo-01.gif)
 ![](/Assets/21-mern-homework-demo-02.gif)
-![](/Assets21-mern-homework-demo-03.gif)
+![](/Assets/21-mern-homework-demo-03.gif)
 
 
 ## Links
