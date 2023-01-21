@@ -107,6 +107,6 @@ Want to learn more please contact me at shdesai327@gmail.com
 
 
 ## Resources
-<br />
-https://docs.insomnia.rest/
-https://www.apollographql.com/docs/
+
+* https://docs.insomnia.rest/
+* https://www.apollographql.com/docs/
