@@ -63,7 +63,7 @@ THEN I am logged out of the site and presented with a menu with the options Sear
 ## Installation
 * Clone the repository using:
 ```
-
+git@github.com:shd327/Book-Search-Engine.git
 ```
 ```
 Run the below commands to install any missing dependencies
