@@ -89,7 +89,6 @@ Want to see more of my work? [Github Link](https://github.com/SHD327)
 <br/>
 Want to learn more please contact me at shdesai327@gmail.com
 
-## Video
 
 
 ## Screenshots
@@ -102,7 +101,7 @@ Want to learn more please contact me at shdesai327@gmail.com
 
 [Github Link](https://github.com/shd327/Book-Search-Engine)
 
-[Github Linkh](https://github.com/shd327/Book-Search-Engine)
+[Heroku Link](https://obscure-sea-59042.herokuapp.com/)
 
 
 
